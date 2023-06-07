@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@nestjs/config": "^2.3.2",
-    "nest-commander": "^3.7.1",
-    "openai": "^3.2.1"
-  }
-}
